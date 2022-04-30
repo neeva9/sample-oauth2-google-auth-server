@@ -1,10 +1,10 @@
-package com.demo.shoppingcart;
+package com.demo.google.oauth;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ShoppingCartApplicationTests {
+class GoogleAuthServerOauth2Tests {
 
     @Test
     void contextLoads() {
